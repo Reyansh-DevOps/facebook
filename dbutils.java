@@ -1,1 +1,1 @@
-this java class contains the db related data
+this file contains the db related data
